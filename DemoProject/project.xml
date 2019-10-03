@@ -1,0 +1,348 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="DemoProject" bundleable="false">
+    <folder name="CustomConfig_Finastra" bundleable="false">
+      <file name="GRAV_FIN_UES_RecordSubmitted.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_cs_taxCodeInstall.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_lib.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_ss_bulktransprocess.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_ss_handlebedrockresponse.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_ss_makebedrockcommit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_ss_makebedrockrequest.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      <file name="grav_fin_ues_sovos_configuration.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    </folder>
+    <folder name="GraVoc_Core" bundleable="false">
+      <file name="grav_core_lib.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    </folder>
+    <folder name="SuiteScript" bundleable="false" exclude="false">
+      <folder name="Script1.0" bundleable="false" exclude="false">
+        <file name="@test.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ACH Mail Processing.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ACH Payment import_SCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Access Request Update Rejection Reason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="AccessRequestUpdateRejectionReason_Suitlet.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Approver List.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="BORN SOCIAL Vendor Request.xlsx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="BR Rechnung 0064-2017.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Bank Details" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Bank detail Rainbird Associates SARL.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Bank details.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Bill Rate Disabled.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Bill Verification.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="BillAmountUSD.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="BillPaymentProcessing.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="BulkTransfer.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="CLI_US_Tax_Distribute.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Cancel and Delink Vendor Bill.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Create Item on Approval" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Create Journal on IR.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="CreateProjectFromRequest_MRS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="CreateSO_MRS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="CreditTemplatePDF.xml" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Customer Payment.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="DeleteMultipleAccrualsFromProd.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="DisplayAmountsUSD.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="DisplayAmountsUSD_16_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="DuplicateDetection.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="EGOadhoc.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="FAM Journal Check.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="FInastra_Shipping_Addr_SL" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Field_Validation_Client.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Filled_Mint-Asia-Pacific-Misys new-supplier-form v0.4.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finance Approver Email.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra New Deal CL" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra new-supplier-form _BR.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra new-supplier-form _Bazanowski.doc" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-006_CS_POsToReceiveHelper.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-006_SL_POsToReceive.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-205_CS_VIU_BillButton.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-205_UE_VIU_BillButton.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-205_UE_VIU_Redirected.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-205_VIU.json" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-205_VIU_lib.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-210.json" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-210_CS_CurrencyPicker.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-210_CS_OrderRequistion.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-210_SL_CurrencyPicker.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-210_SL_OrderRequistion.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_FRD-PTP-210_lib.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_Finance_Approval_WAS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_Italian_VAT_UEv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_NewDealItem_CL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_NewDeals_CL" bundleable="true" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_NewDeals_CL.js" bundleable="true" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_NewDeals_UE" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_New_Deals_CL" bundleable="true" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_OnRequisition_CL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Finastra_OnRequisition_UE.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="FxTriangulationSendCSV.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="GenerateCheckNumber_VendorPayments" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Get CFO Clearance Approver.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Get CFO Clearance Limit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Get Finance Clearance Approver.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Get Finance Clearance Limit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Get Highest Approval Limit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="GlobalController.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="HeadOfRevBillAssurance.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="HideCreditButton.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="IC Journals from Expense Report.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="IR Qty Issue UE.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="IR Qty Issue.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Item Creation Schedule" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Item Request Rejection" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Item Request Rejection Suitlet" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ItemRequest_Duplicate_Validation_CL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Journal Type CSV.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Journal Type.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Journal Update Rejection Reason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="JournalRejectionReason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Journals Line Update.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Kristiz Partner_signed.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Last Modified RA.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Last Modified SO.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Last Modified.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Last Rejected.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="MIS_SUE_SupplierFormatModification.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Make Deposit Button on Sales Invoice.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Make Deposit Default Values.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Mass Update.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Microsoft Word - P1 SyllandSG 2015-16.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Millennium &amp; Copthrone Hotel" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Mint Asia Pacific Event Ltd Bank Account Information.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys Maintain Adv Bill Date.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys Maintain Fair Value.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys new-supplier-form -Yossef Aviv CPA.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys new-supplier-form Rainbird Associates.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys new-supplier-form.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_AccrualJEFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_AccrualJEFix_ReverseIR.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_CS_POItemReceiptHelper.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_CS_UpdatePOwithItemRecpts.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FDR-PTP-010_VendorNameModifications_v1.0.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FDR-PTP-010_VendorNameValidations_v1.0.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_UE_Expense_Report 23-07-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_UE_Expense_Report.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_UE_Expense_Report_22_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_UE_Vendor_Bill 23-07-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_UE_Vendor_Bill.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_UE_Vendor_Bill_22_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_utils 23-07-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_utils.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-013_utils_22_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_3PP_Events.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_3PP_Events2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_3PP_Events_2014-10-23.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_Create3PPPO.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_Create3PPPOHelper.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_Create3PPPO_2014-02-18.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_Create3PPPO_FRD14.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_LinkInvoicesToMilestonesForILF.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorManually.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorOnILFInvoicePayment.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorOnILFInvoicePayment_v2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorOnILFInvoicePayment_v2_2014-10-23.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorOnILFNonBillingMilestone.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorOnILFNonBillingMilestone_2014-10-23.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_MarkNotifyVendorOnRLFInvoicePayment.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_StandardBillingScheduleFromCustomerBillingSchedule.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_UE_Remove_EditBTN.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-L2C-014_UE_Remove_EditBTN_02-09-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-001_CSS_POMultipleItems.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-001_CSS_SuiteletFormScript.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-001_PORequest_SuiteletMainForm.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-001_SuiteletSearchHelper.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-002_CS_POItemReceiptHelper.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-002_SL_POItemReceipt.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-002_UE_POReceiptButton.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_CalculateNetAmount.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_EditPendingApprovalPO.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_FlagPurchaseOrderAsEdited.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_GetEmployeePurchaseLimit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_GetFinalApprover.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_GetFinalApproverApprovalLimit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_ProcessCurrentDelegateOnSave.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_ProcessDelegatesOnSchedule.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_ProcessRemovedDelegatedApprover.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_SendEmailWhenPOisApproved.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_SendEmailWhenPOisApproved_WA.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_UE_POApprovalInit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_UE_POApprovalInit_19-10-15.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_UE_POApprovalInit_19-11-15.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_UpdateRejectReason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-003_ValidateDateFrom.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_CS_UpdatePOwithItemRecpts.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_SS_ReconcileAccrualJE.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_SS_ReconcileAccrualJE_2014-11-04.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_SS_ReconcileAccrualJE_Includes_FRD006.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_ItemRcpt.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_ItemRcpt_2014-11-04.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_ItemRcpt_NEW.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_VendorBill.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_VendorBill_2014-11-04.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_VendorBill_Includes_FRD006.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_AccrualJournal_VendorBill_Includes_FRD006_NEW.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_ClearAccJEonBillCreate.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_ReverseAccrJournal.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_ReverseAccrJournal_2014-11-04.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_ReverseAccrJournal_Includes_FRD006.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_TransferPORate.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-004_UE_TransferPORate_16_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-005_ConfirmVendorBillApproval.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-005_EditApproveVB.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-005_FlagVendorBillAsEdited.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-005_MatchingVendorBillWhenReceiptIsRegistered.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-005_MatchingVendorBillWhenReceiptIsRegistered_v2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-005_MatchingVendorBillWhenReceiptIsRegistered_v2_10-09-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-007_CS_SetTolerance.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-007_CS_SetTolerance_16_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-009_CreateVendor.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-PTP-009_CreateVendor_scheduled.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-009_SL_ExpenseRecharges.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-009_SS_ExpenseRecharge.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_APBalancesRoutine.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_APBalancesRoutine_2014-10-23.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_APBalancesRoutine_22_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_ARBalancesRoutine.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_ARBalancesRoutine_2014-10-23.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_ARBalancesRoutine_22_08_2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_NettingBalancesRoutine.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-R2R-010_PreventDuplicateSubsidiaryAndRepresentSubsidiaryOnICEntityMapping.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-RDR-009_SL_ExpenseRecharges.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD-RDR-009_SS_ExpenseRecharge.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_L2C_014_3rdPartyOutputBG" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_L2C_014_3rdPartyOutputBG(1).js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_L2C_014_3rdPartyOutputBG.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_L2C_014_3rdPartyOutputCL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SL_ICC_Suitelet.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SS_ICC_Journals.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SS_ICC_PerPeriod.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SS_ICC_PerPeriod_18-09-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SS_ICC_PerPeriod_2014-11-11.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SS_ICC_PerTrans.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_SS_ICC_PerTrans_18-09-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-004_UE_ApprovePO.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R-006_SC_IPR_Recharges.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R_001_FxRatesExPluginBG.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R_001_FxRatesExPluginCL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_FRD_R2R_001_FxRatesExPluginSS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_Form_to_upload_ZttblarFile_SS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_GMS_Create_Invoices_CL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_GMS_Create_Invoices_SS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_GMS_Create_Invoices_SchS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_GMS_Master_Data_UE.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_GMS_Send_Invoices_CL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_GMS_Send_Invoices_SS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_R2R_014_Generate_3PP_Events_FRD14.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_R2R_014_Generate_3PP_Events_ILF_SO_SS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_SL_POItemReceipt.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Misys_UE_SOCustomFields_BeforeSubmit" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="NSPS Put Old Charges On Hold.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="NSPS RB Invoice Custom Mappings Exception 200+ Lines.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="NSPS_UpdateNextBillingDates.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="New Deal Milestone_WFA.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="New Vendor form-AD6 - WM.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="New vendor request form.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="NewDealUpdateRejectionReason_Suitlet.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PDF Templates - Portuguese.xml" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PO Item Restrictions.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PO Owner ChangeTool.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="PRNewswireAsiaLimited_Misys new-supplier-form v0.4.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Period_Lock_Check_and_Setup.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ProjectRequestUpdateRejectionReason_Suitlet.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="RA Rejection Reason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="RA Update Rejection Reason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="REST_CreateSOWithCustomFields" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="RLFSOIntegrationTester.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Rebill_SI_WF.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ReconciliationAccrualPOs.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="RestrictFolderCreationAtRoot.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ReturnAuthorizationAmountUSD.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Rev Rec Complete Percentage.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SCH_Signing_Bonus.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SCH_To_Update_ElementID_onSO_ARM.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SO Update Rejection Reason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SOVOS_UpdateSOwithNewShipCode_UES.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SUT_Check_Vendor_Currency.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Schedule_Ven_creation.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SetApproved.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SetExchRateOutsideTolerance.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SetFulFillmentDate_UES.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Setting Created From PR.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="SubChangeOrderIntegrationTester.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Subscription charge stage change tool.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Translate Plus Draft Invoice 2.pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="URR Remove Delegation_CLI.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="URR_suitelet.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Update Charge.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Update Delegated Approver on URR.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Update Delegated Approver.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="UpdateExchangeRate" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="UpdateRejectionReason.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="User role request - End user guide_V 1.0.docx" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="VIU - PS Contractor Invoice.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="VIU_bank_detail_populate.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="VIU_procurement_mail.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="VIUuserEventMethods.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Vendor request form" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="Vendor_Request_Rejection.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="[NS] Get Item Category Total.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="[NS] Item Validations on PO.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="ach_payment_UE.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="adHocEmil.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="adhoc_customerBilingSchedule_to_BillingSchedule.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="bankMatrixUpdate_UE.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="createCASSBill_SCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="createCassHeader_SCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="createZabbrRecord_from_excel.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="currency_match_mismatch_check.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="dateAlert.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="doc pwd details.txt" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="editEmployee.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="initializeSalesOrderLines.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="invCredFind.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="lib.currencyprecision.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="library.fn.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="library.misys.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="library.misys2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="library.misys_2014-11-11.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="library.misys_accrualJEFix.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="manualWorkflowTrigger.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misys.icclibrary.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misys.icclibrary_18-09-2014.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysArmHelperInvUEv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysArmHelperItemUEv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysArmHelperSCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysArmHelperUEv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysArmHelperUpdateRAinInvoiceSCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysArmHelperUpdateRevRecJournalSCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysExpenseHelperUEv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysGmsSS.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysGmsSSEmail.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysGmsSSEmailVer1.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysGmsSuitelet.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysGmsSuitelet_CL.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysRecurringBillingEnhancements2016.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysRecurringBillingHelperCOv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysTaxHungaryUEv2.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="misysVatSweep.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="nsaCodeBehind1.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="nsaMain.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="reportREST.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="revArrResubmit.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="revrectest.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="subStatutoryUpdate.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="translate plus_signed .pdf" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="triggerCASSbillCreation_WF.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="updateSOwithShipCode_SCH.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="updateSOwithShipCode_UES.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="updatecurrencypull.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+        <file name="vatChangeTool.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+      </folder>
+      <folder name="SuiteScript2.0" bundleable="true"/>
+    </folder>
+    <file name="E-mail Plug-in.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="EC_Libs-4.0.0.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="EC_RestletDataExtractor.js" bundleable="false" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+    <file name="Finastra_NewDeals_CL." bundleable="true" hideInBundle="false" isOnline="false" textFileEncoding="_utf8"/>
+  </folder>
+</project>
